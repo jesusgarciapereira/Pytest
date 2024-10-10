@@ -1,4 +1,4 @@
-
+# -*- coding: latin-1 -*-
 
 
 def cifradoCesar(mensaje,clave):
